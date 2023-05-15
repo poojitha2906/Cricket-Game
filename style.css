@@ -11,6 +11,13 @@ html {
     font-size: 62.5%;
 }
 
+#left-image {
+    position: absolute;
+    left: -100px;
+    top: 0;
+    /* margin-left: -40px; */
+}
+
 #main-header {
     text-align: center;
     background-color: hsl(206, 30%, 20%);
